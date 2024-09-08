@@ -1,0 +1,5 @@
+C:\Users\3matt\OneDrive\Desktop\project dinos mod menu\iis.Stupid.Template-1.3\obj\Debug\netstandard2.1\StupidTemplate.csproj.AssemblyReference.cache
+C:\Users\3matt\OneDrive\Desktop\project dinos mod menu\iis.Stupid.Template-1.3\obj\Debug\netstandard2.1\StupidTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3matt\OneDrive\Desktop\project dinos mod menu\iis.Stupid.Template-1.3\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfoInputs.cache
+C:\Users\3matt\OneDrive\Desktop\project dinos mod menu\iis.Stupid.Template-1.3\obj\Debug\netstandard2.1\StupidTemplate.AssemblyInfo.cs
+C:\Users\3matt\OneDrive\Desktop\project dinos mod menu\iis.Stupid.Template-1.3\obj\Debug\netstandard2.1\StupidTemplate.csproj.CoreCompileInputs.cache

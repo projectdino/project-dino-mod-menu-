@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+	<PropertyGroup>
+		<GamePath>https://www.meta.com/experiences/gorilla-tag/4979055762136823/
+			<GameAssemblyPath>$(https://www.meta.com/experiences/gorilla-tag/4979055762136823/)\Gorilla Tag_Data\Managed</GameAssemblyPath>
+		<BepInExAssemblyPath>$(https://www.meta.com/experiences/gorilla-tag/4979055762136823/)\BepInEx\core</BepInExAssemblyPath>
+		<PluginsPath>$(https://www.meta.com/experiences/gorilla-tag/4979055762136823/)\BepInEx\plugins</PluginsPath>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(CI)'=='TRUE'">
+		<GameAssemblyPath>.\Libs</GameAssemblyPath>
+		<BepInExAssemblyPath>.\Libs</BepInExAssemblyPath>
+		<PluginsPath>.\Libs</PluginsPath>
+		<WarningLevel>0</WarningLevel>
+	</PropertyGroup>
+</Project>
